@@ -1,0 +1,93 @@
+.titel1 {
+    text-align: center;
+}
+.titel2 {
+    text-align: center;
+}
+.border1 {
+    width: 1050px;
+    height: 390px;
+    border: 5px solid #FA8072;
+    background-color: #FFA07A ;
+    margin-top: 58px;
+    margin-left: 105px;
+    margin-right: 105px;
+    margin-bottom: 10px;
+    
+}
+.piano {
+    width: 250px;
+    margin-left: 20px;
+
+}
+.text1{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 50px;
+    
+}
+.link{
+    margin-left: 20px;
+    
+}
+img,p {
+    margin-bottom: 2px;
+}
+.border2 {
+    width: 1050px;
+    height: 390px;
+    border: 5px ridge #0000FF;
+    background-color: #87CEFA;
+    margin-top: 10px;
+    margin-left: 105px;
+    margin-right: 105px;
+    
+    
+    
+}
+.titel3 {
+    text-align: center;
+}
+.work {
+    width: 250px;
+    margin-left: 20px;
+}
+
+  
+.text2 {
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.border3 {
+    width: 1050px;
+    height: 402px;
+    border: 5px solid #FFD700;
+    background-color: #FAFAD2;
+    margin-top: 10px;
+    margin-left: 105px;
+    margin-right: 105px;
+    
+
+}
+.titel3 {
+    text-align: center;
+}
+.friends {
+    width: 250px;
+    margin-left: 20px;
+    
+}
+.border4 {
+    text-align: center;
+    width: 1050px;
+    height: 41;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 105px;
+    margin-right: 105px;
+
+}
+.Photo {
+    width: 15px;
+}
